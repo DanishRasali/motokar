@@ -1,0 +1,8 @@
+@baseUrl = https://us-central1-motokar-flutter-c8958.cloudfunctions.net/api
+
+//Foods data Testinggg
+### Getting the list of foods
+GET {{baseUrl}}/profiles
+
+###  Getting a food of given id
+GET {{baseUrl}}/profiles/RbrillBv1vDwj20dVo52

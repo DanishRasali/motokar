@@ -1,0 +1,26 @@
+{
+  "name": "motokar",
+  "version": "1.0.0",
+  "description": "flutter app",
+  "main": "index.js",
+  "directories": {
+    "lib": "lib"
+  },
+  "dependencies": {
+    "eslint-plugin-promise": "^5.1.0"
+  },
+  "devDependencies": {},
+  "scripts": {
+    "test": "echo \"Error: no test specified\" && exit 1"
+  },
+  "repository": {
+    "type": "git",
+    "url": "git+https://github.com/DanishRasali-Map-Organization/motokar.git"
+  },
+  "author": "",
+  "license": "ISC",
+  "bugs": {
+    "url": "https://github.com/DanishRasali-Map-Organization/motokar/issues"
+  },
+  "homepage": "https://github.com/DanishRasali-Map-Organization/motokar#readme"
+}
